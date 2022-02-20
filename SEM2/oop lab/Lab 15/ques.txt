@@ -1,0 +1,5 @@
+1. Wap swap two value by using template.
+2. Wap to add two no of same type by using template.
+3. Wap to add two different types of number by using template.
+4. Wap to create template class which will add two different types of no and display it.
+5. Wap to create stack class which has only push and display function using template class.

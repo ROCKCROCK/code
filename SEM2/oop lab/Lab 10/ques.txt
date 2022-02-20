@@ -1,0 +1,7 @@
+1) Wap to create Hierarchical Structure. Number class is base data member int X and two derived class
+ Perfect & Strong. It will check corresponding whether no is perfect or Strong. But thing is one input 
+ will taken and that single input will check both.
+
+2) Wap to create One Base class Father data member fname. And Son class derived from Father dada member
+ sname . And GrandSon derived from Son data member gname. Use appropriate function that GrandSon will 
+ display all name by it concatenating.

@@ -1,0 +1,13 @@
+virtual function
+create Father class and Son class derived from that Father class. Has same member function activity. Father activity is go to office. 
+Student Task is goto School.
+
+1. Wap to display the only Son task without display the father activity by using virtual function.
+
+2. Wap to display only Father activity without display son activity using virtual function.
+
+3. Wap to display Both father and son activity by using virtual function.
+
+4. Wap to create Shape class. It has two data member function. area() and display(). Area is dummy function. And Display only working. And 
+derived another class Circle. Which also two member function area() display1(). By using abstract class display 
+area of circle and as well as display function of Base class.

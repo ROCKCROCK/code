@@ -1,0 +1,8 @@
+1. Wap to find area of circle, square, rectangle & triangle by using function overloading.
+2. Wap to count how many objects created.
+3. Wap to add two no using friend function.
+4. Wap to find GCD of two no of two different class by using friend function.
+5. Wap to create a class which accept two no and display it by using static data member and static member function.
+6. Wap to create a Telephone class. Which has two data member name and phno. And one function search. 
+which will accept name and display person phono no and same function accept phono and retrurns
+ name by using function overloading.

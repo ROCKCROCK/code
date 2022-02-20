@@ -1,0 +1,9 @@
+1. Wap to create an Dynamic Array and display elements.
+2. Wap to allocate memory for 5 no and display it by using malloc.
+3. Wap to allocate 5 no and find greatest no by using calloc.
+4. Wap to add two no in c++.
+5. Wap to check no is armstrong or not of 3 digits no in C++.
+6. Wap to create student structure having roll, name,mark1,mark2,   
+ mark3 and display sum(), avg() using pointer to structure in C.
+7. Wap to create Emp structure having empno, ename, esal. Use input()  
+ to take input and display function for display it.

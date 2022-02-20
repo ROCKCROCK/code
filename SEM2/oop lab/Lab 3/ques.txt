@@ -1,0 +1,7 @@
+1. Wap to find all armstrong no from 100 to 999 by using function.
+2. Wap to display the simple interest by using function given p, t, r.
+3. Wap to swap 2 no by using call by value, call by address and call by reference.
+4. Wap to add two no by using call by value, call by reference and call by address.
+5. Wap to add two no by using two reference variable.
+6. Wap sort the array elements ascending order in C++ by using both selection and bubble sort.
+7. Wap function will return max no by using array with function.

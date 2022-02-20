@@ -1,0 +1,6 @@
+Q1 display hello java on the screen
+Q2 write a program in java which will accept your name from command line argument and display it on the screen
+Q3 WAP in java which will accept two numbers from the keyboard and display their sum on the screen by using cli and scanner class
+Q4 wap which will accept n no. of argument from the keyboard using command line argument and display the no. of even and odd , 
+sum of even and odd and grand total on the screen
+Q5 wap in java using scanner class which will accept your roll no. name and 5 subject marks and display the cgpa and grade

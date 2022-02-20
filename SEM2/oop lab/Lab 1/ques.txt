@@ -1,0 +1,8 @@
+1. Write a program to accept 3 mark and roll, name using structure and
+find sum average and cgpa by using sum() avg() and cgpa() function.
+2. Write a program to enter roll, name and mark of 5 student using
+structure. And display them in sorting order and display details of
+third highest mark.
+3. Wap to create EMP having eno, ename, ebasic_sal. And display gross
+which is calculated DA=10% of basic, HRA=15% o basic and TA=8% of
+basic.

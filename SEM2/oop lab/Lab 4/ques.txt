@@ -1,0 +1,13 @@
+1. Wap to accept roll, name & mark of 5 students and display them by using array of objects.
+
+2. Wap to display simple interest by using class and object.
+
+3. Wap to take input eno,ename,esal of 5 employees.And calculate TA=7% of 
+basic HAR=9% of basic and take appropriate function and display employee details with their gross salary.
+
+4. Wap to enter roll, name, and array of 3 marks of 5 students. 
+And display their Roll,name, 3 marks and along with Avg marks.
+
+5. Wap to display area of circle,rectange and triangle by using default arguments.
+
+6. Wap to create a Rectangle class and data member width, and height and display area by using Object Pointer.

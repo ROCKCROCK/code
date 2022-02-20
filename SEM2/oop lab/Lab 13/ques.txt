@@ -1,0 +1,22 @@
+1>> (Pointers to objects) Define a class Item that is used to store and display the information
+regarding the item number and its price. Write a program to store and display the details of
+one items by using both normal object and pointer to object separately. Display appropriate
+message wherever necessary.
+2>> Modify the program LE8.1 by creating an array of n objects using pointers. Show the details of n 
+items by using pointers to object concept.
+3>> (Pointers to derived classes) Write a program to illustrate how pointers to a base class is used
+for both base and derived class.
+4>> (this Pointer) Write a program to display the contains of an object, when local variable's
+name is same as member's name by using this pointer.
+5>> (Virtual Function) Define a class ABC. Derive two classes BBC and KBC from ABC. All
+the classes contains same member function name as display(). The base class pointer always
+holds the derived class objects.
+a) Write a program such that base class pointer or reference will always access/call the base
+version of the members available in derived class, do not have any access to the derived
+class members.
+b) Write a program such that base class pointer or reference will always access/call the
+derived version of the members available in derived class, do not have any access to the
+base class members.
+Write down the concepts used for bit a) and b) separately.
+6>> (Pure Virtual Function) Write a program by modifying LE8.5 b) by making display() as
+pure virtual function.
