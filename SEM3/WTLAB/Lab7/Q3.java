@@ -5,7 +5,7 @@ class SBM {
     }
 
     static void CName() {
-        n = "Rockcrock";
+        n = "ROCKCROCK";
     }
 
     void SName() {
