@@ -36,7 +36,7 @@ select * from student where to_char(birthdate, 'MM')=03;
 --Q17
 select LNAME,FNAME,coalesce(SALARY + COMMISSION , SALARY) as PAYOUT from EMPLOYEE;
 --Q18
-select FNAME ||' '|| LNAME "Name" ,(case when SALARY >= 100000 then 'HIGH' else (case when SALARY >= 50000 then 'MEDIUM' else 'LOW' end) end ) "level" from EMPLOYEE;
+select FNAME ||' '|| LNAME "Name" ,(case when SALARY >= 30000 then 'HIGH' else (case when SALARY >= 20000 then 'MEDIUM' else 'LOW' end) end ) "level" from EMPLOYEE;
 
 
 
