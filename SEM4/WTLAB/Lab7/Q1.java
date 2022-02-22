@@ -1,4 +1,3 @@
-
 class staticTest {
     int p;
     String n;
