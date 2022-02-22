@@ -32,7 +32,7 @@ select DEPTID , AVG(SALARY) from EMPLOYEE group by DEPTID having AVG(SALARY) >= 
 --Q15
 select EMPLOYEEID , TRUNC(( EXTRACT(YEAR FROM SYSDATE) - EXTRACT(YEAR FROM HireDate) )) as "years working" from EMPLOYEE;
 --Q16
-select * from student where to_char(birthdate, 'MM')=05;
+select * from student where to_char(birthdate, 'MM')=03;
 --Q17
 select LNAME,FNAME,coalesce(SALARY + COMMISSION , SALARY) as PAYOUT from EMPLOYEE;
 --Q18
