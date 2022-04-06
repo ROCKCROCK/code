@@ -17,7 +17,7 @@ public class currency {
     public void rupeetodollar() {
         System.out.println("Enter Rupee to convert into Dollars:");
         inr = in.nextInt();
-        usd = inr / 67;
+        usd = inr / 78;
         System.out.println("Rupee =" + inr + "equal to Dollars=" + usd);
     }
 
