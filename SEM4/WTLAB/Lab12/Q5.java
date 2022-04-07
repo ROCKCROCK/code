@@ -23,7 +23,7 @@ public class Q5 {
         int x = s.nextInt();
         try {
             processInput(x);
-            System.out.println("Output : " + x * 2);
+            System.out.println("Output : " + (double) x * 2);
         } catch (NegativeNumberException e) {
             System.out.println(e);
         }
