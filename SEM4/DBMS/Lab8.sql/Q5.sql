@@ -7,3 +7,4 @@ lName:='&lName';
 DBMS_OUTPUT.PUT_LINE('Full Name with comma->'||fName||','||lName);
 DBMS_OUTPUT.PUT_LINE('Full Name with space->'||fName||' '||lName);
 END;
+/

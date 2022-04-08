@@ -12,3 +12,4 @@ np:=gp-(gp*tax);
 DBMS_OUTPUT.PUT_LINE('Gross Pay is->'||gp);
 DBMS_OUTPUT.PUT_LINE('Net Pay is->'||np);
 END;
+/

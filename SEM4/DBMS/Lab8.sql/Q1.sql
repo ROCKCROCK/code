@@ -9,3 +9,4 @@ DECLARE
     dbms_output.put_line('Area is->'||area);
   
   END;
+  /

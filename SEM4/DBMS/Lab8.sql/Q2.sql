@@ -12,3 +12,4 @@ DBMS_OUTPUT.PUT_LINE('Square of a is->'||square);
 DBMS_OUTPUT.PUT_LINE('Cube of a is->'||cube);
 DBMS_OUTPUT.PUT_LINE('double of a is->'||double);
 END;
+/
