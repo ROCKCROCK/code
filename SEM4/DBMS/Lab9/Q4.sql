@@ -1,0 +1,10 @@
+create TABLE ITEM (ItemNum NUMBER);
+DECLARE
+x NUMBER(5);
+BEGIN
+FOR x in 1 .. 5 LOOP
+INSERT INTO ITEM(ItemNum) VALUES(x);
+END LOOP;
+END;
+/
+select * from ITEM;
