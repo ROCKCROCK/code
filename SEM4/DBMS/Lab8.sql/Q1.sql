@@ -1,5 +1,5 @@
 DECLARE
-     area NUMBER(5);
+     area NUMBER(10,2);
      radius NUMBER(5);
      pi CONSTANT NUMBER(5,3):=3.14;
   
