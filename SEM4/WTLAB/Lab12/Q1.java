@@ -15,5 +15,6 @@ public class Q1 {
             System.out.println("Error : " + e);
         }
         System.out.println("....End of Program :(....");
+        sc.close();
     }
 }
