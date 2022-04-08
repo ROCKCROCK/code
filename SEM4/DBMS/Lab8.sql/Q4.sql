@@ -1,8 +1,8 @@
 DECLARE
 hours number(5);
 rate number(5);
-gp number(5);
-np NUMBER(5);
+gp number(10,2);
+np NUMBER(10,2);
 tax NUMBER(5,3):=0.28;
 BEGIN
 hours:=&hours;
